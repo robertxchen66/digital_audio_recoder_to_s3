@@ -1,2 +1,2 @@
-AWSAccessKeyId=AKIAZ5J5FVWGY323VAWU
-AWSSecretKey=GsROZKQ6esTb5C0u2xgZoK7i6j/tTmWFSnbJQfSY
+AWSAccessKeyId="your AWS access key"
+AWSSecretKey="your AWS secret key"
