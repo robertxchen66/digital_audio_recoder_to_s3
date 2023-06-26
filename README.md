@@ -16,3 +16,5 @@ Put files in Downloads directory to the /home/pi/Downloads directory,\
 replace the keys and secrete in the "passwd-s3fs" file,\
 add two lins in the crontab-add to the buttom of the "crontab -e" and save.\
 Reboot, the recording should start automatically.
+
+https://blog.technotesdesk.com/2014/01/03/mount-s3-bucket-as-a-local-drive-and-use-rsync-to-sync-files-on-debian-7/
