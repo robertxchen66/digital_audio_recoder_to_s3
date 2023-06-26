@@ -15,4 +15,4 @@ Prerequisites:\
 Put files in Downloads directory to the /home/pi/Downloads directory,\
 replace the keys and secrete in the "passwd-s3fs" file,\
 add two lins in the crontab-add to the buttom of the "crontab -e" and save.\
-Reboot, the recording should start automatically. }
+Reboot, the recording should start automatically.
