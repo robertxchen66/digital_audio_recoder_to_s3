@@ -1,5 +1,5 @@
 
-# digital_audio_recoder_to_s3\
+# digital_audio_recoder_to_s3
 This project is to use Raspberry Pi to recorder audio and store in S3 as hourly mp3 files. \
 Prerequisites:\
   Respberry Pi with WiFI\
@@ -10,6 +10,7 @@ Prerequisites:\
   ffmepg\
   ffmpy3\
   alsa\
+  rsync\
   AWS account and generate S3 key and secret\
 \
 Put files in Downloads directory to the /home/pi/Downloads directory,\
