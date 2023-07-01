@@ -11,6 +11,7 @@ Prerequisites:\
   ffmpy3\
   alsa\
   rsync\
+  s3fs\
   AWS account and generate S3 key and secret\
 \
 Put files in Downloads directory to the /home/pi/Downloads directory,\
