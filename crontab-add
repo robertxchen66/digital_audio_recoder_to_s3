@@ -1,2 +1,2 @@
-# 0 * * * * /home/pi/s3fs.sh
+0 * * * * /home/pi/s3fs.sh
 0 * * * * /home/pi/Downloads/ffmpyrecording.sh
