@@ -14,7 +14,7 @@ Prerequisites:\
   s3fs\
   AWS account and generate S3 key and secret\
 \
-Create a s3 directory under /mnt, and make it writeable by other users.\
+Create a s3 directory under /mnt, and make it writeable by other users.
 ```
 sudo mkdir /mnt/s3
 chmod o+w /mnt/s3
