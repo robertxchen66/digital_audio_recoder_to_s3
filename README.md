@@ -14,6 +14,11 @@ Prerequisites:\
   s3fs\
   AWS account and generate S3 key and secret\
 \
+Create a s3 directory under /mnt
+```
+sudo mkdir /mnt/s3
+chmod o+w /mnt/s3
+```
 Put files in Downloads directory to the /home/pi/Downloads directory,\
 replace the keys and secrete in the "passwd-s3fs" file,\
 add two lins in the crontab-add to the buttom of the "crontab -e" and save.\
