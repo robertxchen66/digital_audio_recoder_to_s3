@@ -1,2 +1,5 @@
+
+0 1 * * * sudo reboot
+0 * * * * find /home/pi/Downloads/*mp3 ! -mtime 1 -delete
 0 * * * * /home/pi/s3fs.sh
 0 * * * * /home/pi/Downloads/ffmpyrecording.sh
